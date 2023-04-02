@@ -1,0 +1,8 @@
+2023-04-02 15:16:38.997687 - Initialized conversion of CBT586
+2023-04-02 15:16:39.047501 - Received CBT.V504.FILE586.PDS from FILE586.XMI 
+2023-04-02 15:16:39.050148 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE586.PDS, moved to PDS/$$$#DATE
+2023-04-02 15:16:39.051307 - Found $$NOTE.txt (text/plain) in CBT.V504.FILE586.PDS, moved to PDS/$$NOTE
+2023-04-02 15:16:39.052347 - Found $PDSLOAD.jcl (text/plain) in CBT.V504.FILE586.PDS, moved to PDS/$PDSLOAD
+2023-04-02 15:16:39.053359 - Found @FILE586.txt (text/plain) in CBT.V504.FILE586.PDS, moved to PDS/@FILE586
+2023-04-02 15:16:39.054450 - Found EXEC.txt (text/plain) in CBT.V504.FILE586.PDS, moved to PDS/EXEC
+2023-04-02 15:16:39.054460 - Found PANEL.bin containing application/octet-stream, moved to PDS/PANEL
