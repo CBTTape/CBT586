@@ -1,7 +1,7 @@
-2025-04-13 20:54:39.539186 - Received CBT.V508.FILE586.PDS from FILE586.XMI 
-2025-04-13 20:54:39.539944 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE586.PDS, moved to PDS/$$$#DATE
-2025-04-13 20:54:39.540065 - Found $$NOTE.txt (text/plain) in CBT.V508.FILE586.PDS, moved to PDS/$$NOTE
-2025-04-13 20:54:39.540140 - Found $PDSLOAD.jcl (text/plain) in CBT.V508.FILE586.PDS, moved to PDS/$PDSLOAD
-2025-04-13 20:54:39.540210 - Found @FILE586.txt (text/plain) in CBT.V508.FILE586.PDS, moved to PDS/@FILE586
-2025-04-13 20:54:39.540286 - Found EXEC.txt (text/plain) in CBT.V508.FILE586.PDS, moved to PDS/EXEC
-2025-04-13 20:54:39.540347 - Found PANEL.bin (application/octet-stream) in CBT.V508.FILE586.PDS, moved to PDS/PANEL
+2025-04-15 03:45:07.763644 - Received CBT.V508.FILE586.PDS from FILE586.XMI 
+2025-04-15 03:45:07.764842 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE586.PDS, moved to PDS/$$$#DATE
+2025-04-15 03:45:07.765090 - Found $$NOTE.txt (text/plain) in CBT.V508.FILE586.PDS, moved to PDS/$$NOTE
+2025-04-15 03:45:07.765277 - Found $PDSLOAD.jcl (text/plain) in CBT.V508.FILE586.PDS, moved to PDS/$PDSLOAD
+2025-04-15 03:45:07.765501 - Found @FILE586.txt (text/plain) in CBT.V508.FILE586.PDS, moved to PDS/@FILE586
+2025-04-15 03:45:07.765851 - Found EXEC.txt (text/plain) in CBT.V508.FILE586.PDS, moved to PDS/EXEC
+2025-04-15 03:45:07.766014 - Found PANEL.bin (application/octet-stream) in CBT.V508.FILE586.PDS, moved to PDS/PANEL
